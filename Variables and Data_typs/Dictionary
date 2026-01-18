@@ -7,5 +7,10 @@ new = {
 }
 print(new)
 
+print(new["age"])
 
+del new["marks"]
 
+print(new["friend"])
+
+print(new[""])
