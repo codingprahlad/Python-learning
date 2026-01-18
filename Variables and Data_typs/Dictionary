@@ -1,1 +1,11 @@
+new = {
+    "name":"prahlad",
+    "age":24,
+    "USN": 123456789,
+    "marks":[36, 87, 90, 83, 67],
+    "friend": True,
+}
+print(new)
+
+
 
