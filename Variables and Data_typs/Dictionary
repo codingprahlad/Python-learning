@@ -36,6 +36,15 @@ print(new.items())
 
 
 
+student = {"name": "Rahul", "age": 21}
+print(student)
+
+data = {"id": 101, "score": 88}
+print(data["score"])
+
+info = {"city": "Delhi"}
+info["city"] = "Mumbai"
+print(info)
 
 
 
