@@ -1,1 +1,119 @@
+print(12 + 8)
+
+print(20 - 5)
+
+print(6 * 7)
+
+a = 10
+b = 3
+print(a + b)
+
+x = 15
+y = 4
+print(x - y)
+
+m = 6
+n = 7
+print(m * n)
+
+p = 20
+q = 5
+print(p / q)
+
+r = 17
+s = 3
+print(r // s)
+
+u = 18
+v = 5
+print(u % v)
+
+i = 9
+print(i ** 2)
+
+a = 10
+b = 2.5
+print(a + b)
+
+x = 7
+y = 2.0
+print(x * y)
+
+p = 9
+q = 2
+print(float(p / q))
+
+a = 5
+b = 3j
+print(a + b)
+
+x = 4 + 2j
+y = 1
+print(x * y)
+
+c1 = 2 + 3j
+c2 = 1 + 4j
+print(c1 + c2)
+
+z = 6 + 8j
+print(abs(z))
+
+num = 12
+print(type(num))
+a = 10
+b = 3
+print(a + b)
+
+x = 15
+y = 4
+print(x - y)
+
+m = 6
+n = 7
+print(m * n)
+
+p = 20
+q = 5
+print(p / q)
+
+r = 17
+s = 3
+print(r // s)
+
+u = 18
+v = 5
+print(u % v)
+
+i = 9
+print(i ** 2)
+
+a = 10
+b = 2.5
+print(a + b)
+
+x = 7
+y = 2.0
+print(x * y)
+
+p = 9
+q = 2
+print(float(p / q))
+
+a = 5
+b = 3j
+print(a + b)
+
+x = 4 + 2j
+y = 1
+print(x * y)
+
+c1 = 2 + 3j
+c2 = 1 + 4j
+print(c1 + c2)
+
+z = 6 + 8j
+print(abs(z))
+
+num = 12
+print(type(num))
 
