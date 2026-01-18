@@ -14,3 +14,29 @@ del new["marks"]
 print(new["friend"])
 
 print(new[""])
+
+
+
+new = {
+    "name":"prahlad",
+    "age":24,
+    "USN": 123456789,
+    "marks":[36, 87, 90, 83, 67],
+    "friend": True,
+}
+print(new.keys())
+
+print(new.items())
+
+print(new.get("USN"))
+
+print(new.update({"name":"annasab"}))
+
+print(new.items())
+
+
+
+
+
+
+
